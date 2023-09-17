@@ -1,0 +1,14 @@
+.card-model{
+    position: relative;
+}
+.card-glasses{
+    width: 150px;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+}
+.card-img-overlay{
+    position: absolute;
+    background-color: rgba(180, 134, 97, 0.801);
+    top:180px;
+}
